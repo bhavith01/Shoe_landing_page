@@ -1,6 +1,6 @@
 import logo from "../assets/logo.png";
 
-const Navigation = () => {
+const navigation = () => {
   return (
     <div>
       <nav>
@@ -19,4 +19,4 @@ const Navigation = () => {
   );
 };
 
-export default Navigation;
+export default navigation;

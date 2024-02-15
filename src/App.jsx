@@ -1,7 +1,6 @@
 import "./App.css";
-import MainBox from "./components/MainBox";
-import Navigation from "./components/navigation";
-
+import MainBox from "./components/MainBox.jsx";
+import Navigation from "./components/navigation.jsx";
 const App = () => {
   return (
     <div>
